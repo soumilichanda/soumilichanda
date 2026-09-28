@@ -1,6 +1,6 @@
 # Hi there, I'm Soumili Chanda 👋
 
-Software Engineer & Applied Machine Learning Practitioner focused on building defensible ML systems, production serving pipelines, and core algorithmic problem-solving.
+**CSE (AI & ML) Undergrad** building production ML pipelines, computer vision systems, and foundational data structures & algorithms.
 
 ---
 
